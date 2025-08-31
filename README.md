@@ -7,6 +7,11 @@ This repository will serve as my **learning log**, **project hub**, and **accoun
 
 ✨ The goal: Turn consistency into progress, and progress into mastery.  
 
+Day 1: Tic Tac Toe
+Day 2: Scientific Calculator with a Function Graph Plotter 
+Day 3: Enhanced Wordle Game
+
+
 
 
 
