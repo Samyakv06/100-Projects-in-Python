@@ -41,10 +41,11 @@ Not just another Wordle clone!
 ---
 
 ## 🔗 Stay Connected  
-I’ll be posting updates daily on GitHub, and sharing highlights on [LinkedIn](www.linkedin.com/in/samyakverma06) ✨  
+I’ll be posting updates daily on GitHub, and sharing highlights on [LinkedIn](https://www.linkedin.com/in/samyakverma06) ✨  
 Follow along and let’s grow together! 🚀  
 
 #100DaysOfCode #Python #Projects #LearningInPublic
+
 
 
 
